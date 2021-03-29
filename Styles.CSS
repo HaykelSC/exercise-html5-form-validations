@@ -1,0 +1,21 @@
+.header{
+    text-align: left;
+    background-color: lightgrey;
+}
+
+.imag-credit{
+    background-color: grey;
+    width: 50%;
+    border-radius: 5px
+}
+
+.footer{
+    text-align: right;
+    width: 100%;
+    height: 100%;
+    background-color: lightgrey;
+}
+
+.form-validation{
+    padding-top: -20px;
+}
